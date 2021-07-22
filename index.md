@@ -1,4 +1,4 @@
-## Futuchain whitepaper & roadmap (work in progress - contracts not out, avoid scams please)
+## Futuchain whitepaper & roadmap (work in progress - contracts not out yet, don't fall for scams please)
 
 Establishing a new level of web governance by entering into international agreements with projects of high value for the rebirth of an IOT 3.0 
 
