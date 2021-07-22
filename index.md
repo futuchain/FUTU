@@ -38,6 +38,8 @@ Internet conjoiner: collect liquidity projects
 
 Tokenomics $FUTU 
 
+Total 1000000000 FUTU
+
 Liquidity growth 
 3% of each transfer or sale is permanently added to the liquidity - then 2% - then 1% - then 0.5% forever after the contract has been renounced 
 
@@ -47,6 +49,8 @@ Development fund portfolio
 Waigoing capital duty By selling $FUTU, you also pay an exit fee of 3% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU holders will receive the monthly airdrops.
 
 ### $RIST
+
+Total 1000000000000 $RIST
 
 Tokenomics $RIST
 
@@ -68,9 +72,11 @@ hotels, brands, shops, websites, sporting events
 •Creation of official owner website 
 •Social networks, communities and web presence 
 •Minting equity ERC-20 tokens and BSC utility tokens •Whitepaper publication 
+•social rICO announcements
 
 ### 2 - First come first served 
-• campaign on social profiles to announce the launch of the token that will take place on uniswap and pancake swap 
+•reversible ICO (rICO)
+•campaign on social profiles to announce the launch of the token that will take place on uniswap and pancake swap 
 •social contest + random aidrop of tokens $RIST to participants 
 
 ### 3 - Futu~Rist 
