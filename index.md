@@ -132,3 +132,6 @@ ensuring a future at all times in history
 [reddit](https://www.reddit.com/r/futuchain/)
 
 [twitter](https://twitter.com/futuchain)
+
+[telegram announcements](t.me/futuchan)
+
