@@ -46,7 +46,7 @@ Liquidity growth
 Development fund portfolio 
 1% of each transfer or exchange is added to futuristic engine's development portfolio 
 
-Waigoing capital duty By selling $FUTU, you also pay an exit fee of 3% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU holders will receive the monthly airdrops.
+Waigoing capital duty By selling $FUTU, you also pay an exit fee of 3% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops and more development of the eco. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU active addresses will receive the monthly airdrops.
 
 ### $RIST
 
@@ -86,7 +86,7 @@ hotels, brands, shops, websites, sporting events
 
 ### 4 - Futuristic engine 
 •Presentation of the IC internet conjoiner platform and publication of first projects and partnerships 
-•(NFT 👀) 
+•(NFTs) 
 •Launch of pools to invest directly in projects on the internet conjoiner using $RIST token
 
 ### 5 - Futuchan 
@@ -122,9 +122,9 @@ is the governance token (equivalent of an equity token) ERC-20 circuit (until th
 is the utility token (lowest fees and fastest transactions) BSC Binance Smart Chain (until the completion of the blockchain) 
 
 ### IC
-internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through $RIST token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
+internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through $FUTU token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
 
-### You can only put $RIST in liquidity for IC projects. 
+### You can only put $FUTU in liquidity for IC projects. 
 
 
 
