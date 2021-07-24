@@ -145,6 +145,20 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 
 ### You can only put $FUTU in liquidity for IC projects. 
 
+## For the creators
+
+### Propose your projects and join the ecosystem!
+
+1 - First you’ll need your personal token to make possible for investir to provide liquidity  in a DeFi way. 
+
+2 - We accept and will always accept only audited tokens and eventually proceed to create a fresh one for your project’s pool.
+
+3 - Stake FUTU tokens in tue pool and provide liquidity to set the price for the tokens pair and you are ready to start claiming your first LP rewards, more liquidity from investors and also gaining visibility thanks to the IC (Internet conjoiner) project’s pool score leaderboard
+
+4 - Fill the form on the official website to be selected! You don’t have to buy FUTU tokens yet* but you can do it at any time if you want to support futuchain developement!
+
+*Major holders are not gaining score as the IC pools do, instead they are elegible to all the facilities offered by our partners. 
+
 
 
 ```markdown
