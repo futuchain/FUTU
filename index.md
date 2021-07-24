@@ -143,7 +143,7 @@ is the utility token (lowest fees and fastest transactions) BSC Binance Smart Ch
 ### IC
 internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through $FUTU token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
 
-### You can only put $FUTU in liquidity for IC projects. 
+### You can only stake $FUTU pairs in liquidity for IC projects. 
 
 ## For the creators
 
