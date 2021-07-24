@@ -62,7 +62,9 @@ Frictionless yield holders of $RIST earn a passive income through static reflect
 
 ## Partnership
 
-hotels, brands, shops, websites, sporting events
+Partnerships:
+
+Each partner that will become an equity token holder will offer and also receive facilities from the other major holders who are members of the community. We thought of a great network of connections for every field, from restaurants, hotels, transport to shops and brands. Only FUTU knows what the future holds for us.
 
 —
 
