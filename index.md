@@ -87,11 +87,13 @@ Each partner that will become an equity token holder will offer and also receive
 
 ## ROADMAP: 
 
+```markdown
 ### 1 - Genesis 
 •Creation of official owner website 
 •Social networks, communities and web presence 
 •Minting equity ERC-20 tokens and BSC utility tokens •Whitepaper publication 
 •social rICO announcements
+
 
 ### 2 - First come first served 
 •reversible ICO (rICO)
@@ -120,7 +122,7 @@ Each partner that will become an equity token holder will offer and also receive
 •reduction of the transaction tax to 0.5% 
 •waiver of the contract 
 •complete decentralization 
-
+```
 
 
 ## FUTUCHAIN in a nutshell: 
@@ -165,7 +167,7 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 ensuring a future at all times in history
 ```
 
-
+```markdown
 ### Support or Contact
 
 [reddit](https://www.reddit.com/r/futuchain/)
@@ -173,4 +175,5 @@ ensuring a future at all times in history
 [twitter](https://twitter.com/futuchain/)
 
 [telegram announcements](https://t.me/futuchan/)
+```
 
