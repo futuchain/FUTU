@@ -38,27 +38,24 @@ Internet conjoiner: collection of liquidity pools projects
 
 Tokenomics $FUTU 
 
-Total 1000000000 FUTU
-
-Liquidity growth 
-3% of each transfer or sale is permanently added to the liquidity - then 2% - then 1% - then 0.5% forever after the contract has been renounced 
+Total 7000000000 FUTU
 
 Development fund portfolio 
 1% of each transfer or exchange is added to futuristic engine's development portfolio 
 
-Waigoing capital duty By selling $FUTU, you also pay an exit fee of 3% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops and more development of the eco. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU active addresses will receive the monthly airdrops.
+Waigoing capital duty By selling $FUTU, you will pay an exit fee of 10% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops and more development of the ecosystem. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU active addresses will receive the monthly airdrops.
 
-### $RIST
+### $RICO
 
-Total 1000000000000 $RIST
+Total 1000000000000000 $RICO
 
-Tokenomics $RIST
+Tokenomics $RICO
 
-Liquidity growth 2% of each transfer or transaction is permanently added to liquidity 
+Liquidity growth 5% of each transfer or transaction is permanently added to liquidity 
 
-Development fund portfolio 1% of each transfer or exchange is added to futuristic engine's development portfolio 
+Development fund portfolio 5% of each transfer or exchange is added to futuristic engine's development portfolio 
 
-Frictionless yield holders of $RIST earn a passive income through static reflection 
+Frictionless yield holders of $RICO earn a passive income of 5% through static reflection 
 
 ## IC Pools
 
@@ -91,16 +88,15 @@ Each partner that will become an equity token holder will offer and also receive
 ### 1 - Genesis 
 •Creation of official owner website 
 •Social networks, communities and web presence 
-•Minting equity ERC-20 tokens and BSC utility tokens •Whitepaper publication 
-•social rICO announcements
+•social rICO announcement
 
 
 ### 2 - First come first served 
 •reversible ICO (rICO)
-•campaign on social profiles to announce the launch of the token that will take place on uniswap and pancake swap 
-•social contest + random aidrop of tokens $RIST to participants 
+•campaign on social profiles to announce the launch of the token that will take place on pancake swap 
+•social contest + random aidrop of tokens $RICO to participants 
 
-### 3 - Futu~Rist 
+### 3 - Futu~Rico 
 •first partnerships 
 •adding more $FUTU liquidity 
 •improvements to the website •monthly aidrop$ $FUTU
@@ -108,7 +104,7 @@ Each partner that will become an equity token holder will offer and also receive
 ### 4 - Futuristic engine 
 •Presentation of the IC internet conjoiner platform and publication of first projects and partnerships 
 •(NFTs) 
-•Launch of pools to invest directly in projects on the internet conjoiner using $RIST token
+•Launch of pools to invest directly in projects on the internet conjoiner using $RICO token
 
 ### 5 - Futuchan 
 •nft presentation of artists from the Futuchain Futuchan community 
@@ -139,8 +135,8 @@ the given name to the online community
 ### FUTU 
 is the governance token (equivalent of an equity token) ERC-20 circuit (until the completion of the blockchain)
 
-### RIST 
-is the utility token (lowest fees and fastest transactions) BSC Binance Smart Chain (until the completion of the blockchain) 
+### RICO 
+is the initial reversible ico / utility token (lowest fees and fastest transactions) BSC Binance Smart Chain (until the completion of the blockchain) 
 
 ### IC
 internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through $FUTU token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
@@ -174,6 +170,8 @@ ensuring a future at all times in history
 
 [twitter](https://twitter.com/futuchain/)
 
-[telegram announcements](https://t.me/futuchan/)
+[telegram announcements](https://t.me/futuchain/)
+
+[telegram community](https://t.me/futuchan/)
 ```
 
